@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import play from "../assets/play.svg";
+import Play from "../assets/Play.svg";
 
 const Process = () => {
   const contentData = [
@@ -39,7 +39,7 @@ const Process = () => {
                 >
                   {item.buttonText}
                 </button>
-                <Image src={play} alt="play" className="img-fluid me-2" />
+                <Image src={Play} alt="play" className="img-fluid me-2" />
                 {item.playVideoText}
               </div>
             </div>
