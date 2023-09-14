@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+.Great-Vibes {
+    font-family: Great Vibes;
+}
+
+/* text-color */
+.primary-color {
+    color: #FF9F0D !important;
+}
+
+
+/* Background Color */
+.btn-color {
+    background-color: #FF9F0D !important;
+}
+
+.bg-color {
+    background-color: black;
+}
+
+.bg-gray-color {
+    background-color: #4F4F4F;
+}
+
+/* Border Color */
+.search-bar {
+    border-color: #FF9F0D !important;
+    color: white;
+}
+
+
+/* Psuedo Classes */
+.nav-link:hover {
+    color: #FF9F0D !important;
+}
+
+.social-icon:hover {
+    background-color: #FF9F0D !important;
+}
+
+.icon:hover {
+    color: #FF9F0D;
+}
+
+/* Text Decoration */
+.icon-link {
+    text-decoration: none;
+}
+
+.bg-bottom-leaf {
+    rotate: -128.85 deg;
+    display: flex;
+    margin-top: 40%;
+    margin-left: 35%;
+    padding-bottom: 50%;
+}
+
+
+.greater-sign::after {
+    content: ">";
+    margin: 0 5px;
+    color: #ffffff;
+}
+
+.icon {
+    color: white;
+    transition: color 0.3s;
+}
+
+
+.bg-img {
+    margin-top: 25%;
+    margin-left: 85% !important;
+}
+
+.leaf {
+    width: 80%;
+    height: auto;
+}
+
+.bg-leaf {
+    margin-top: 10%;
+    margin-left: -20%;
+}
+
+
+/* Background Images */
+.home-bg {
+    background-image: url('/Hero-Image.svg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.bg-leaf {
+    background-image: url('/bg-leaf.svg');
+    width: 100%;
+    height: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.hero {
+    background-image: url('/Hero-signup.svg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.experience {
+    background-image: url('/FishDish.svg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.darkBg {
+    background-image: url('/DarkBg.svg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .9;
+}
+
+.yellowBg {
+    background-image: url('/YellowBox.svg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.whiteBg {
+    background-image: url('/WhiteCard.svg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.processBg {
+    background-image: url('/process.svg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.whiteTestimonial {
+    background-image: url('/Testimonial-White.svg');
+    width: 100%;
+    height: auto;
+    background-size: auto;
+    background-position: center center;
+    background-repeat: no-repeat; 
+    opacity: 0.6;
+}
+
+.bg-flower {
+    background-image: url('/bg-flower.svg');
+    width: 100%;
+    height: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 2;
+}
