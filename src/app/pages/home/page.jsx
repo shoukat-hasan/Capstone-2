@@ -7,7 +7,7 @@ import OurChefs from "@/app/components/HomeSections/OurChefs";
 import Process from "@/app/components/HomeSections/Process";
 import Reason from "@/app/components/HomeSections/Reason";
 import Testimonial from "@/app/components/HomeSections/Testimonial";
-import ExperienceSection from "@/app/components/menuPageSections/Experience/ExperienceSection";
+import ExperienceSection from "@/app/components/menupagesections/Experience/ExperienceSection";
 import React from "react";
 
 const HomePage = () => {
