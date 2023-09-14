@@ -1,7 +1,7 @@
 "use client";
 import Footer from "@/app/components/Footer/Footer";
 import Hero from "@/app/components/Hero/Hero";
-import Navbar from "@/app/components/Navbar/Navbar";
+import Navbar from "@/app/components/navbar/Navbar";
 import Link from "next/link";
 import React, { useState } from "react";
 
