@@ -15,7 +15,7 @@ const FoodItem = () => {
   ];
 
   return (
-      <div className="container-fluid my-5 bg-leaf">
+      <div className="container-fluid my-5">
         <div>
           <div className="container text-center my-3">
             <p className="primary-color fs-4 Great-Vibes">Food Category</p>
