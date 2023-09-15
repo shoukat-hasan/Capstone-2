@@ -24,7 +24,7 @@ const HomePage = () => {
       <Blog />
       <Footer />
     </div>
-  );
+  )
 };
 
 export default HomePage;
