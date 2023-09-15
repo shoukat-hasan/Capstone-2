@@ -79,12 +79,6 @@
     height: auto;
 }
 
-.bg-leaf {
-    margin-top: 10%;
-    margin-left: 20%;
-}
-
-
 /* Background Images */
 .home-bg {
     background-image: url('/Hero-Image.svg');
